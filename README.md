@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 🧞‍♂️ SmartShop Genie — The Future of Shopping Starts Here
 
-## Project info
+[![Watch Demo on YouTube](https://img.youtube.com/vi/cBjKcaJCQb4/maxresdefault.jpg)](https://youtu.be/cBjKcaJCQb4)
 
-**URL**: https://lovable.dev/projects/2e94f6d5-206f-4898-8d3e-c2770d959a55
+🎥 **Demo Video**: [https://youtu.be/cBjKcaJCQb4](https://youtu.be/cBjKcaJCQb4)
 
-## How can I edit this code?
+SmartShop Genie is a futuristic, AI-powered virtual shopping experience that transforms traditional e-commerce into an interactive, gamified, and hyper-personalized journey.  
+Built with cutting-edge web tech, it reimagines retail with features like virtual store maps, animated avatars, AI optimization, and immersive scanning.
 
-There are several ways of editing your application.
+👤 **Built by:** Prabhat Kale  
+🛍️ **Hackathon Submission:** Walmart Sparkathon 2025  
+🏆 **Theme:** Reimagining Customer Experience with Emerging Technologies
 
-**Use Lovable**
+## ✨ Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2e94f6d5-206f-4898-8d3e-c2770d959a55) and start prompting.
+- 🗺️ Virtual Store Map with clickable zones
+- 👾 Mario-style Animated Avatar with bounce motion
+- 👦👧 Avatar Selection: Boy, Girl, Bot, Pixel Gamer
+- 🛒 Add-to-Cart Spark & Bounce Effects
+- 🧠 AI Cart Optimization with Smart Suggestions
+- 💥 Scanner Animation for Hidden Deals
+- 📦 Delivery vs Pickup Toggle with ETA or Pickup Animation
+- 🛍️ AI-Generated Realistic Category Cards
+- 🤖 Sparky AI Chat Assistant
+- 📊 Personal Dashboard: Health, Eco, and Savings Analytics
+- 🎁 Gamified Rewards with Scratch Cards and Emojis
+- 🔐 Privacy-First: No tracking, local-only data, fast and secure
 
-Changes made via Lovable will be committed automatically to this repo.
+## 💻 Tech Stack
 
-**Use your preferred IDE**
+- React + TypeScript
+- Vite
+- Tailwind CSS + shadcn/ui
+- Framer Motion
+- LocalStorage (No backend needed)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/smartshop-genie.git
 
-Follow these steps:
+# 2. Navigate into the project
+cd smartshop-genie
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 3. Install dependencies
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start the local server
 npm run dev
+
+# Access locally:
+# ➜  Local:   http://localhost:8080/
+# ➜  Network: http://192.168.0.105:8080/
 ```
 
-**Edit a file directly in GitHub**
+# 🎯 Hackathon Goals Achieved
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+✅ Innovation & Scalability  
+✅ Real AI-based Customer Personalization  
+✅ Engaging Immersive Shopping UX  
+✅ Future-ready Design & Privacy-first Architecture  
+✅ Demo-ready & Fully Functional POC  
 
-**Use GitHub Codespaces**
+# 🧠 About the Developer
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2e94f6d5-206f-4898-8d3e-c2770d959a55) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Prabhat Kale**  
+Ramdeobaba College of Engineering, Nagpur  
+📧 kaleps@rknec.edu  
