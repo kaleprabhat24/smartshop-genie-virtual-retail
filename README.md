@@ -4,6 +4,9 @@
 
 🎥 **Demo Video**: [https://youtu.be/cBjKcaJCQb4](https://youtu.be/cBjKcaJCQb4)
 
+🚀 **Try the Live Demo**:
+👉 https://smartshop-genie-virtual-retail-nghbr27m1.vercel.app/
+
 SmartShop Genie is a futuristic, AI-powered virtual shopping experience that transforms traditional e-commerce into an interactive, gamified, and hyper-personalized journey.  
 Built with cutting-edge web tech, it reimagines retail with features like virtual store maps, animated avatars, AI optimization, and immersive scanning.
 
